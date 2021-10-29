@@ -1,5 +1,6 @@
 <h1 align="center"> Chatroom-SD</h1>
 <p align="center">Sistema de Chat construido para cadeira de Sistemas Distribuidos, com o objetivo de criar um chat público onde todos os usuários se comuniquem, e chats privados entre os usuários, vale ressaltar que o código foi desenvolvido e testado apenas no Linux(Ubuntu).</p>
+<p align="center">Esse código tomou como base o seguinte sistema: https://gist.github.com/Abhey/47e09377a527acfc2480dbc5515df872, pois foi nos dado a dica de usar códigos já existentes, e modificar eles para seguir as exigências requeridas na atividade<p>
 
 Como Rodar
 ============
